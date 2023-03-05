@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anubhav1433](https://github.com/anubhav1433)
 
-- 📫 How to reach me **anubhavmendhiratta@gmail.com**
+- 📫 Reach me at **anubhavmendhiratta@gmail.com**
 
 <hr>
 
