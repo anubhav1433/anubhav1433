@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MACHINE LEARNING**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anubhav1433](https://github.com/anubhav1433)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/anubhav1433)
 
 - 📫 Reach me at **anubhavmendhiratta@gmail.com**
 
