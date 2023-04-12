@@ -1,4 +1,4 @@
-![ANUBHAV MENDHIRATTA2](https://user-images.githubusercontent.com/92522855/227266983-0a28f442-bc8e-4c3e-bf4f-3a670ee7c22d.jpg)
+![avatar](https://user-images.githubusercontent.com/92522855/231443457-8aa158ff-a8bd-4e21-b379-c86e1740aecf.gif)
 <h1 align="center">Hi 👋, I'm ANUBHAV</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
@@ -29,9 +29,9 @@
 
 <hr>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav1433&show_icons=true&locale=en&layout=compact" alt="anubhav1433" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav1433&show_icons=true&locale=en&layout=compact" alt="anubhav1433" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav1433&show_icons=true&locale=en" alt="anubhav1433" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav1433&show_icons=true&locale=en" alt="anubhav1433" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav1433&" alt="anubhav1433" /></p>
 
